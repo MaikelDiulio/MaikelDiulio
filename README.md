@@ -3,8 +3,7 @@
 
 -
 - 🌱 LABENU | FULL STACK
-- 👯 I’m looking to collaborate on ...
-- 
+ 
 
 <div>
   <a href="https://github.com/maikeldiulio">
