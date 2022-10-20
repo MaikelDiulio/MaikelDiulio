@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Maikel Diulio 👋
 
 
-
+- ESTUDANTE DE PROGRAMAÇÃO
 - 🌱 LABENU | FULL STACK
  
 
