@@ -1,5 +1,5 @@
-# 💫 About Me:
-Bem Vindos, <br>Sou Maikel Desenvolvedor Front - End, <br>Confira mais sobre meu GitHub!
+# 💫 Bem-Vindos:
+Sou Maikel Desenvolvedor Front - End, <br>Confira mais sobre meu GitHub!
 
 
 
