@@ -1,4 +1,4 @@
-# 💫 Bem-Vindos:
+# 💫 Bem-Vindos!
 Sou Maikel Desenvolvedor Front - End, <br>Confira mais sobre meu GitHub!
 
 
